@@ -1,0 +1,5 @@
+.idea
+.env
+.env.development
+node_modules
+dist
